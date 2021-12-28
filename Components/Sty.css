@@ -1,0 +1,17 @@
+.btn{
+    border: none;
+    background-color: rgb(64, 124, 236);
+    border-radius: 20px;
+    padding: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin: 30px;
+    color: white;
+    border: 2px solid black;
+  }
+  
+  .mymaindiv{
+    display: flex;
+    justify-content: center;
+  }
+  

@@ -1,0 +1,23 @@
+body {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgb(249, 114, 253)), to(#a8c552)) fixed;
+  }
+  
+  
+.mydiv{
+    background-color: rgb(164, 230, 60);
+
+    height: 250px;
+    width: 450px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.mydiv1{
+    background-color: rgb(205, 245, 30);
+    height: 250px;
+    width: 450px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 50px;
+}
